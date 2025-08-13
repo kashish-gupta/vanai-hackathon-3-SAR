@@ -2,9 +2,7 @@
 SAR's Submission for VANAI hackathon Round 3
 
 ## Project Members
-Kashish Gupta (kashish.sch@gmail.com)
-Phanija Suryadevara (phanijasuryadevara@gmail.com)
-Namiya Jain (namiyajain@hotmail.com)
+Kashish Gupta (kashish.sch@gmail.com) | Phanija Suryadevara (phanijasuryadevara@gmail.com) | Namiya Jain (namiyajain@hotmail.com)
 
 ## Project Overview
 The genesis of this project lies in the unique collaboration between a robotics and AI professional, a strategist from the world of luxury events and a behavioral science researcher. This video highlights the "paradox of AI" in the life of BC residents. Our narrative, set in the familiar landscape of British Columbia, translates complex data from the VANAI Hackathon Round 3 dataset into a personal and emotionally resonant journey.  We explore the duality of hope and unease, showcasing AI's promise in areas like healthcare and the environment, while also voicing the community's deep-seated concerns about jobs, privacy, and the future of human creativity. The video follows a single day, weaving real data points into futuristic scenarios to illustrate how technology doesn't knock - it enters our lives unannounced. Through this approach, we aim to deliver an experience that is both analytically grounded and deeply human, proving that powerful data storytelling goes beyond charts and graphs to connect with our shared emotions. 
