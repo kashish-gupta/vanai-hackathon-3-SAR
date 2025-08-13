@@ -21,3 +21,8 @@ Our process began with a deep dive into the VANAI Hackathon Round 3 dataset, usi
 We found a strong message of hope for AI in areas like healthcare and the environment, equally contrasted by strong concerns about job security, privacy, and creativity. These data-driven insights informed our creative work. We developed a seven-scene story with a script that decodes BC’s real emotions and maps them to scenarios from a future world, while ensuring each scene’s emotional core was directly traceable to the dataset’s patterns. 
 
 For production, our workflow integrated both AI and human-led tools. We used ElevenLabs’ AI to generate distinct inner voices for all our characters, while the human narrator provided a crucial contrast. The narrator’s voice was enhanced (studio-emulated) using Adobe Podcast Enhancer AI. Background sounds were sourced from the wonderful community at Pixabay, and the final video was brought to life using a combination of CapCut, Adobe Premiere Pro, and Adobe After Effects for editing, AI-assisted transcribing and captioning, and synchronization of all elements. This integrated approach produced a data-grounded short film that, we hope, delivers both analytical depth and emotional resonance to the audience. 
+
+## Submission
+We submit a video experience, detailing "A Day in teh Life of BC residents" where ordinary choices become ethical crossroads with AI
+** Link here **
+In addition, we submit a short visual overview of the story scenes, uploaded as a pdf to this repository. 
