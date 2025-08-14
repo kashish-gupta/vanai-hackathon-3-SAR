@@ -24,5 +24,5 @@ For production, our workflow integrated both AI and human-led tools. We used Ele
 
 ## Submission
 We submit a video experience, detailing "A Day in the Life of BC residents" where ordinary choices become ethical crossroads with AI
-** Link here **
+[SAR's Submission](https://1drv.ms/f/c/6962f5255ae4be32/Ep_qKXoZt_FJrlR7lXG45e8Bpt15PIc-roHEqg8SJZwxoQ?e=61b9rb)
 In addition, we submit a short visual overview of the story scenes, uploaded as a pdf to this repository. 
